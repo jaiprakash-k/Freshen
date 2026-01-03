@@ -1,4 +1,4 @@
-# FreshKeep Backend
+# Freshen Backend
 
 A scalable, real-time backend system for FreshKeep - a grocery management app that reduces food waste using OCR receipt scanning, barcode lookup, smart expiration tracking, recipe suggestions, family sharing, and analytics.
 
