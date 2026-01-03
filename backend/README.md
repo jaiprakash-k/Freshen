@@ -122,6 +122,3 @@ freshkeep/
 - `GET /api/settings` - Get preferences
 - `PUT /api/settings` - Update preferences
 
-## License
-
-MIT
